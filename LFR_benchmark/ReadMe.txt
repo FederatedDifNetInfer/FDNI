@@ -1,4 +1,4 @@
-In order to compile, type
+In order to compile, type 
 
 make
 ----------------------------------------
