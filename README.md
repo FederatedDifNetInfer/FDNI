@@ -4,4 +4,4 @@ This project is the code for the paper "Federated Diffusion Network Inference wi
 
 FDNI: Main implementation of the FDNI algorithm proposed in the submitted paper.
 
-LFR_benchmark: Code for generating LFR benchmark networks.
+LFR_benchmark: The code for generating LFR benchmark networks.
